@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AgroPackUrlManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AgroPackUrlManager.props",
+      "PackagePath": "build\\AgroPackUrlManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AgroPackUrlManager.props",
+      "PackagePath": "buildMultiTargeting\\AgroPackUrlManager.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AgroPackUrlManager.props",
+      "PackagePath": "buildTransitive\\AgroPackUrlManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

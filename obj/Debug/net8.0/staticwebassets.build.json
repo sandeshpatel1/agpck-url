@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "IDv47RMXnN16qW6lQqyHcdniAlhMIMf9Tk9y+Cpe03A=",
+  "Source": "AgroPackUrlManager",
+  "BasePath": "_content/AgroPackUrlManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AgroPackUrlManager\\wwwroot",
+      "Source": "AgroPackUrlManager",
+      "ContentRoot": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\",
+      "BasePath": "_content/AgroPackUrlManager",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\css\\site.css",
+      "SourceId": "AgroPackUrlManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\",
+      "BasePath": "_content/AgroPackUrlManager",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\js\\app.js",
+      "SourceId": "AgroPackUrlManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Sandesh\\AgroPack\\AgroPackUrlManager_Core\\AgroPackUrlManager_Core\\AgroPackUrlManager\\wwwroot\\",
+      "BasePath": "_content/AgroPackUrlManager",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\app.js"
+    }
+  ]
+}
